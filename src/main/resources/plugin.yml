@@ -1,0 +1,4 @@
+name: LessPearls
+version: '${project.version}'
+main: themasterkitty.lesspearls.LessPearls
+api-version: '1.20'

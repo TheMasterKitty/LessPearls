@@ -1,0 +1,4 @@
+name: LessPearls
+version: '0'
+main: themasterkitty.lesspearls.LessPearls
+api-version: '1.20'
